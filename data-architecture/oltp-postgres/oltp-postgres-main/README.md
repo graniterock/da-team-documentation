@@ -12,9 +12,10 @@ This approach maintains data in its natural structured format throughout the pip
 
 ## Related Documentation
 
-- [Initial Setup](../postgres/initial-setup.md)
-- [Apex Tickets (Bronze Layer)](../apex/apex-tickets-bronze-layer.md) 
-- [Apex GL Posting (Bronze Layer)](../apex/apex-gl-posting-bronze-layer.md)
+- [Initial Setup](../initial-setup/README.md)
+- [Apex OLTP](../apex-oltp/README.md) 
+- [JDE OLTP](../jde-oltp/README.md)
+- [Data Pipelines](../data-pipelines/README.md)
 
 ## DBT Documentation for Postgres
 
